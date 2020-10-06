@@ -1,0 +1,12 @@
+Sample:
+begin_word = "hit"
+end_word = "cog"
+return: ['hit', 'hot', 'cot', 'cog']
+
+begin_word = "sail"
+end_word = "boat"
+['sail', 'bail', 'boil', 'boll', 'bolt', 'boat']
+
+beginWord = "hungry"
+endWord = "happy"
+None
